@@ -1,3 +1,11 @@
+"""
+Task: Write a Python script that calculates the two teams that faced each other the most (counting both home and away matches). 
+The resulting pickle file must contain a list with the name of the two teams.
+
+Constraint: You are not allowed to use any third-party library. 
+You can only use libraries and modules belonging to the Python Standard Library.
+"""
+
 import csv
 import pickle
 
