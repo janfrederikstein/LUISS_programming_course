@@ -2,6 +2,9 @@
 Task: Write a Python script that calculates the teams that (within the same season) remained unbeaten at home matches. 
 The resulting pickle file must contain a list with the name(s) of the teams. 
 If a given team remains unbeaten for several different reasons, then it must appears as many times in the output list.
+
+Constraint: You are not allowed to use any third-party library. 
+You can only use libraries and modules belonging to the Python Standard Library.
 """
 
 import csv
