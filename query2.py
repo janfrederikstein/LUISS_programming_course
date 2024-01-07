@@ -1,3 +1,8 @@
+"""
+Task: Write a Python script that calculates the team that (within the same season) had the highest number of different 
+goalkeepers in the initial squad. The resulting pickle file must contain a tuple with the name of the team and the season.
+"""
+
 import csv
 import pickle
 
